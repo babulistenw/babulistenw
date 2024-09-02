@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-算法笔记
+个人博客部署
 
 <!---
 babulistenw/babulistenw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
